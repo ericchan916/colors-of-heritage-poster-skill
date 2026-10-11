@@ -1,5 +1,16 @@
 # 器色有形·东方文博实验字体海报 Skill / Colors of Heritage Poster Skill
 
+## 作品展示 · Gallery
+
+以下海报均由本 Skill 生成。
+
+| | | |
+|---|---|---|
+| <img src="assets/01-qinghua.png" width="240" alt="青花"> | <img src="assets/02-qingci.png" width="240" alt="青瓷"> | <img src="assets/03-junse.png" width="240" alt="钧色"> |
+| 青花 | 青瓷 | 钧色 |
+| <img src="assets/04-tuhao.png" width="240" alt="兔毫"> | <img src="assets/05-sancai.png" width="240" alt="三彩"> | <img src="assets/06-subai.png" width="240" alt="素白"> |
+| 兔毫 | 三彩 | 素白 |
+
 以一件真实器物为核心，融合毛笔书法、博物馆展陈视觉、复古编辑设计与现代实验字体，生成一张 9:16 东方文博海报。
 
 ## 它能做什么
