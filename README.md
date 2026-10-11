@@ -10,6 +10,7 @@
 | 青花 | 青瓷 | 钧色 |
 | <img src="assets/04-tuhao.png" width="240" alt="兔毫"> | <img src="assets/05-sancai.png" width="240" alt="三彩"> | <img src="assets/06-subai.png" width="240" alt="素白"> |
 | 兔毫 | 三彩 | 素白 |
+| <img src="assets/07.png" width="240"> | <img src="assets/08.png" width="240"> | |
 
 以一件真实器物为核心，融合毛笔书法、博物馆展陈视觉、复古编辑设计与现代实验字体，生成一张 9:16 东方文博海报。
 
